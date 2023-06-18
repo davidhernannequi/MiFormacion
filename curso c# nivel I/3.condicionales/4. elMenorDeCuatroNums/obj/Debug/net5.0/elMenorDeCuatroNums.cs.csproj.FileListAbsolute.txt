@@ -1,0 +1,16 @@
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\4. elMenorDeCuatroNums\elMenorDeCuatroNums.cs\obj\Debug\net5.0\elMenorDeCuatroNums.cs.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\4. elMenorDeCuatroNums\elMenorDeCuatroNums.cs\obj\Debug\net5.0\elMenorDeCuatroNums.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\4. elMenorDeCuatroNums\elMenorDeCuatroNums.cs\obj\Debug\net5.0\elMenorDeCuatroNums.cs.AssemblyInfoInputs.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\4. elMenorDeCuatroNums\elMenorDeCuatroNums.cs\obj\Debug\net5.0\elMenorDeCuatroNums.cs.AssemblyInfo.cs
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\4. elMenorDeCuatroNums\elMenorDeCuatroNums.cs\obj\Debug\net5.0\elMenorDeCuatroNums.cs.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\4. elMenorDeCuatroNums\elMenorDeCuatroNums.cs\bin\Debug\net5.0\elMenorDeCuatroNums.cs.exe
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\4. elMenorDeCuatroNums\elMenorDeCuatroNums.cs\bin\Debug\net5.0\elMenorDeCuatroNums.cs.deps.json
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\4. elMenorDeCuatroNums\elMenorDeCuatroNums.cs\bin\Debug\net5.0\elMenorDeCuatroNums.cs.runtimeconfig.json
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\4. elMenorDeCuatroNums\elMenorDeCuatroNums.cs\bin\Debug\net5.0\elMenorDeCuatroNums.cs.runtimeconfig.dev.json
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\4. elMenorDeCuatroNums\elMenorDeCuatroNums.cs\bin\Debug\net5.0\elMenorDeCuatroNums.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\4. elMenorDeCuatroNums\elMenorDeCuatroNums.cs\bin\Debug\net5.0\ref\elMenorDeCuatroNums.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\4. elMenorDeCuatroNums\elMenorDeCuatroNums.cs\bin\Debug\net5.0\elMenorDeCuatroNums.cs.pdb
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\4. elMenorDeCuatroNums\elMenorDeCuatroNums.cs\obj\Debug\net5.0\elMenorDeCuatroNums.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\4. elMenorDeCuatroNums\elMenorDeCuatroNums.cs\obj\Debug\net5.0\ref\elMenorDeCuatroNums.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\4. elMenorDeCuatroNums\elMenorDeCuatroNums.cs\obj\Debug\net5.0\elMenorDeCuatroNums.cs.pdb
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\4. elMenorDeCuatroNums\elMenorDeCuatroNums.cs\obj\Debug\net5.0\elMenorDeCuatroNums.cs.genruntimeconfig.cache

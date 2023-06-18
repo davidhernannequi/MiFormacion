@@ -1,0 +1,16 @@
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\4.siLaSumaEsMayorAlProducto\4.siLaSumaEsMayorAlProducto.cs\bin\Debug\net5.0\4.siLaSumaEsMayorAlProducto.cs.exe
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\4.siLaSumaEsMayorAlProducto\4.siLaSumaEsMayorAlProducto.cs\bin\Debug\net5.0\4.siLaSumaEsMayorAlProducto.cs.deps.json
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\4.siLaSumaEsMayorAlProducto\4.siLaSumaEsMayorAlProducto.cs\bin\Debug\net5.0\4.siLaSumaEsMayorAlProducto.cs.runtimeconfig.json
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\4.siLaSumaEsMayorAlProducto\4.siLaSumaEsMayorAlProducto.cs\bin\Debug\net5.0\4.siLaSumaEsMayorAlProducto.cs.runtimeconfig.dev.json
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\4.siLaSumaEsMayorAlProducto\4.siLaSumaEsMayorAlProducto.cs\bin\Debug\net5.0\4.siLaSumaEsMayorAlProducto.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\4.siLaSumaEsMayorAlProducto\4.siLaSumaEsMayorAlProducto.cs\bin\Debug\net5.0\ref\4.siLaSumaEsMayorAlProducto.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\4.siLaSumaEsMayorAlProducto\4.siLaSumaEsMayorAlProducto.cs\bin\Debug\net5.0\4.siLaSumaEsMayorAlProducto.cs.pdb
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\4.siLaSumaEsMayorAlProducto\4.siLaSumaEsMayorAlProducto.cs\obj\Debug\net5.0\4.siLaSumaEsMayorAlProducto.cs.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\4.siLaSumaEsMayorAlProducto\4.siLaSumaEsMayorAlProducto.cs\obj\Debug\net5.0\4.siLaSumaEsMayorAlProducto.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\4.siLaSumaEsMayorAlProducto\4.siLaSumaEsMayorAlProducto.cs\obj\Debug\net5.0\4.siLaSumaEsMayorAlProducto.cs.AssemblyInfoInputs.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\4.siLaSumaEsMayorAlProducto\4.siLaSumaEsMayorAlProducto.cs\obj\Debug\net5.0\4.siLaSumaEsMayorAlProducto.cs.AssemblyInfo.cs
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\4.siLaSumaEsMayorAlProducto\4.siLaSumaEsMayorAlProducto.cs\obj\Debug\net5.0\4.siLaSumaEsMayorAlProducto.cs.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\4.siLaSumaEsMayorAlProducto\4.siLaSumaEsMayorAlProducto.cs\obj\Debug\net5.0\4.siLaSumaEsMayorAlProducto.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\4.siLaSumaEsMayorAlProducto\4.siLaSumaEsMayorAlProducto.cs\obj\Debug\net5.0\ref\4.siLaSumaEsMayorAlProducto.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\4.siLaSumaEsMayorAlProducto\4.siLaSumaEsMayorAlProducto.cs\obj\Debug\net5.0\4.siLaSumaEsMayorAlProducto.cs.pdb
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\4.siLaSumaEsMayorAlProducto\4.siLaSumaEsMayorAlProducto.cs\obj\Debug\net5.0\4.siLaSumaEsMayorAlProducto.cs.genruntimeconfig.cache

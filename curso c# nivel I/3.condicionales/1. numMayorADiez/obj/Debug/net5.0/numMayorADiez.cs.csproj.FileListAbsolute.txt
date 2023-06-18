@@ -1,0 +1,16 @@
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\1. numMayorADiez\numMayorADiez.cs\bin\Debug\net5.0\numMayorADiez.cs.exe
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\1. numMayorADiez\numMayorADiez.cs\bin\Debug\net5.0\numMayorADiez.cs.deps.json
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\1. numMayorADiez\numMayorADiez.cs\bin\Debug\net5.0\numMayorADiez.cs.runtimeconfig.json
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\1. numMayorADiez\numMayorADiez.cs\bin\Debug\net5.0\numMayorADiez.cs.runtimeconfig.dev.json
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\1. numMayorADiez\numMayorADiez.cs\bin\Debug\net5.0\numMayorADiez.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\1. numMayorADiez\numMayorADiez.cs\bin\Debug\net5.0\ref\numMayorADiez.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\1. numMayorADiez\numMayorADiez.cs\bin\Debug\net5.0\numMayorADiez.cs.pdb
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\1. numMayorADiez\numMayorADiez.cs\obj\Debug\net5.0\numMayorADiez.cs.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\1. numMayorADiez\numMayorADiez.cs\obj\Debug\net5.0\numMayorADiez.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\1. numMayorADiez\numMayorADiez.cs\obj\Debug\net5.0\numMayorADiez.cs.AssemblyInfoInputs.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\1. numMayorADiez\numMayorADiez.cs\obj\Debug\net5.0\numMayorADiez.cs.AssemblyInfo.cs
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\1. numMayorADiez\numMayorADiez.cs\obj\Debug\net5.0\numMayorADiez.cs.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\1. numMayorADiez\numMayorADiez.cs\obj\Debug\net5.0\numMayorADiez.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\1. numMayorADiez\numMayorADiez.cs\obj\Debug\net5.0\ref\numMayorADiez.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\1. numMayorADiez\numMayorADiez.cs\obj\Debug\net5.0\numMayorADiez.cs.pdb
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\1. numMayorADiez\numMayorADiez.cs\obj\Debug\net5.0\numMayorADiez.cs.genruntimeconfig.cache

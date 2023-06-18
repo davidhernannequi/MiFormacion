@@ -1,0 +1,16 @@
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\5.promedioDeTresNotas\5.promedioDeTresNotas.cs\bin\Debug\net5.0\5.promedioDeTresNotas.cs.exe
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\5.promedioDeTresNotas\5.promedioDeTresNotas.cs\bin\Debug\net5.0\5.promedioDeTresNotas.cs.deps.json
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\5.promedioDeTresNotas\5.promedioDeTresNotas.cs\bin\Debug\net5.0\5.promedioDeTresNotas.cs.runtimeconfig.json
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\5.promedioDeTresNotas\5.promedioDeTresNotas.cs\bin\Debug\net5.0\5.promedioDeTresNotas.cs.runtimeconfig.dev.json
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\5.promedioDeTresNotas\5.promedioDeTresNotas.cs\bin\Debug\net5.0\5.promedioDeTresNotas.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\5.promedioDeTresNotas\5.promedioDeTresNotas.cs\bin\Debug\net5.0\ref\5.promedioDeTresNotas.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\5.promedioDeTresNotas\5.promedioDeTresNotas.cs\bin\Debug\net5.0\5.promedioDeTresNotas.cs.pdb
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\5.promedioDeTresNotas\5.promedioDeTresNotas.cs\obj\Debug\net5.0\5.promedioDeTresNotas.cs.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\5.promedioDeTresNotas\5.promedioDeTresNotas.cs\obj\Debug\net5.0\5.promedioDeTresNotas.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\5.promedioDeTresNotas\5.promedioDeTresNotas.cs\obj\Debug\net5.0\5.promedioDeTresNotas.cs.AssemblyInfoInputs.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\5.promedioDeTresNotas\5.promedioDeTresNotas.cs\obj\Debug\net5.0\5.promedioDeTresNotas.cs.AssemblyInfo.cs
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\5.promedioDeTresNotas\5.promedioDeTresNotas.cs\obj\Debug\net5.0\5.promedioDeTresNotas.cs.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\5.promedioDeTresNotas\5.promedioDeTresNotas.cs\obj\Debug\net5.0\5.promedioDeTresNotas.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\5.promedioDeTresNotas\5.promedioDeTresNotas.cs\obj\Debug\net5.0\ref\5.promedioDeTresNotas.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\5.promedioDeTresNotas\5.promedioDeTresNotas.cs\obj\Debug\net5.0\5.promedioDeTresNotas.cs.pdb
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\5.promedioDeTresNotas\5.promedioDeTresNotas.cs\obj\Debug\net5.0\5.promedioDeTresNotas.cs.genruntimeconfig.cache

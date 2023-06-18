@@ -1,0 +1,16 @@
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\5. numsMayoresACien\numsMayoresACien.cs\bin\Debug\net5.0\numsMayoresACien.cs.exe
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\5. numsMayoresACien\numsMayoresACien.cs\bin\Debug\net5.0\numsMayoresACien.cs.deps.json
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\5. numsMayoresACien\numsMayoresACien.cs\bin\Debug\net5.0\numsMayoresACien.cs.runtimeconfig.json
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\5. numsMayoresACien\numsMayoresACien.cs\bin\Debug\net5.0\numsMayoresACien.cs.runtimeconfig.dev.json
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\5. numsMayoresACien\numsMayoresACien.cs\bin\Debug\net5.0\numsMayoresACien.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\5. numsMayoresACien\numsMayoresACien.cs\bin\Debug\net5.0\ref\numsMayoresACien.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\5. numsMayoresACien\numsMayoresACien.cs\bin\Debug\net5.0\numsMayoresACien.cs.pdb
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\5. numsMayoresACien\numsMayoresACien.cs\obj\Debug\net5.0\numsMayoresACien.cs.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\5. numsMayoresACien\numsMayoresACien.cs\obj\Debug\net5.0\numsMayoresACien.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\5. numsMayoresACien\numsMayoresACien.cs\obj\Debug\net5.0\numsMayoresACien.cs.AssemblyInfoInputs.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\5. numsMayoresACien\numsMayoresACien.cs\obj\Debug\net5.0\numsMayoresACien.cs.AssemblyInfo.cs
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\5. numsMayoresACien\numsMayoresACien.cs\obj\Debug\net5.0\numsMayoresACien.cs.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\5. numsMayoresACien\numsMayoresACien.cs\obj\Debug\net5.0\numsMayoresACien.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\5. numsMayoresACien\numsMayoresACien.cs\obj\Debug\net5.0\ref\numsMayoresACien.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\5. numsMayoresACien\numsMayoresACien.cs\obj\Debug\net5.0\numsMayoresACien.cs.pdb
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\5. numsMayoresACien\numsMayoresACien.cs\obj\Debug\net5.0\numsMayoresACien.cs.genruntimeconfig.cache

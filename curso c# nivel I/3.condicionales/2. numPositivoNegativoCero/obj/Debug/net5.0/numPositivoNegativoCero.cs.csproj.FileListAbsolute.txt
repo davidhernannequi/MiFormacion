@@ -1,0 +1,16 @@
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\2. numPositivoNegativoCero\numPositivoNegativoCero.cs\bin\Debug\net5.0\numPositivoNegativoCero.cs.exe
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\2. numPositivoNegativoCero\numPositivoNegativoCero.cs\bin\Debug\net5.0\numPositivoNegativoCero.cs.deps.json
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\2. numPositivoNegativoCero\numPositivoNegativoCero.cs\bin\Debug\net5.0\numPositivoNegativoCero.cs.runtimeconfig.json
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\2. numPositivoNegativoCero\numPositivoNegativoCero.cs\bin\Debug\net5.0\numPositivoNegativoCero.cs.runtimeconfig.dev.json
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\2. numPositivoNegativoCero\numPositivoNegativoCero.cs\bin\Debug\net5.0\numPositivoNegativoCero.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\2. numPositivoNegativoCero\numPositivoNegativoCero.cs\bin\Debug\net5.0\ref\numPositivoNegativoCero.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\2. numPositivoNegativoCero\numPositivoNegativoCero.cs\bin\Debug\net5.0\numPositivoNegativoCero.cs.pdb
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\2. numPositivoNegativoCero\numPositivoNegativoCero.cs\obj\Debug\net5.0\numPositivoNegativoCero.cs.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\2. numPositivoNegativoCero\numPositivoNegativoCero.cs\obj\Debug\net5.0\numPositivoNegativoCero.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\2. numPositivoNegativoCero\numPositivoNegativoCero.cs\obj\Debug\net5.0\numPositivoNegativoCero.cs.AssemblyInfoInputs.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\2. numPositivoNegativoCero\numPositivoNegativoCero.cs\obj\Debug\net5.0\numPositivoNegativoCero.cs.AssemblyInfo.cs
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\2. numPositivoNegativoCero\numPositivoNegativoCero.cs\obj\Debug\net5.0\numPositivoNegativoCero.cs.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\2. numPositivoNegativoCero\numPositivoNegativoCero.cs\obj\Debug\net5.0\numPositivoNegativoCero.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\2. numPositivoNegativoCero\numPositivoNegativoCero.cs\obj\Debug\net5.0\ref\numPositivoNegativoCero.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\2. numPositivoNegativoCero\numPositivoNegativoCero.cs\obj\Debug\net5.0\numPositivoNegativoCero.cs.pdb
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\2. numPositivoNegativoCero\numPositivoNegativoCero.cs\obj\Debug\net5.0\numPositivoNegativoCero.cs.genruntimeconfig.cache

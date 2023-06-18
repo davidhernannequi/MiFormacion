@@ -1,0 +1,16 @@
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\3.localPcSeleccionDeArticulos\3.localPcSeleccionDeArticulos.cs\obj\Debug\net5.0\3.localPcSeleccionDeArticulos.cs.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\3.localPcSeleccionDeArticulos\3.localPcSeleccionDeArticulos.cs\obj\Debug\net5.0\3.localPcSeleccionDeArticulos.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\3.localPcSeleccionDeArticulos\3.localPcSeleccionDeArticulos.cs\obj\Debug\net5.0\3.localPcSeleccionDeArticulos.cs.AssemblyInfoInputs.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\3.localPcSeleccionDeArticulos\3.localPcSeleccionDeArticulos.cs\obj\Debug\net5.0\3.localPcSeleccionDeArticulos.cs.AssemblyInfo.cs
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\3.localPcSeleccionDeArticulos\3.localPcSeleccionDeArticulos.cs\obj\Debug\net5.0\3.localPcSeleccionDeArticulos.cs.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\3.localPcSeleccionDeArticulos\3.localPcSeleccionDeArticulos.cs\bin\Debug\net5.0\3.localPcSeleccionDeArticulos.cs.exe
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\3.localPcSeleccionDeArticulos\3.localPcSeleccionDeArticulos.cs\bin\Debug\net5.0\3.localPcSeleccionDeArticulos.cs.deps.json
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\3.localPcSeleccionDeArticulos\3.localPcSeleccionDeArticulos.cs\bin\Debug\net5.0\3.localPcSeleccionDeArticulos.cs.runtimeconfig.json
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\3.localPcSeleccionDeArticulos\3.localPcSeleccionDeArticulos.cs\bin\Debug\net5.0\3.localPcSeleccionDeArticulos.cs.runtimeconfig.dev.json
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\3.localPcSeleccionDeArticulos\3.localPcSeleccionDeArticulos.cs\bin\Debug\net5.0\3.localPcSeleccionDeArticulos.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\3.localPcSeleccionDeArticulos\3.localPcSeleccionDeArticulos.cs\bin\Debug\net5.0\ref\3.localPcSeleccionDeArticulos.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\3.localPcSeleccionDeArticulos\3.localPcSeleccionDeArticulos.cs\bin\Debug\net5.0\3.localPcSeleccionDeArticulos.cs.pdb
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\3.localPcSeleccionDeArticulos\3.localPcSeleccionDeArticulos.cs\obj\Debug\net5.0\3.localPcSeleccionDeArticulos.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\3.localPcSeleccionDeArticulos\3.localPcSeleccionDeArticulos.cs\obj\Debug\net5.0\ref\3.localPcSeleccionDeArticulos.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\3.localPcSeleccionDeArticulos\3.localPcSeleccionDeArticulos.cs\obj\Debug\net5.0\3.localPcSeleccionDeArticulos.cs.pdb
+C:\Users\PC-1\Desktop\curso c# nivel I\4. ejercicios unidad 4\3.localPcSeleccionDeArticulos\3.localPcSeleccionDeArticulos.cs\obj\Debug\net5.0\3.localPcSeleccionDeArticulos.cs.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\4.sueldoCasaDeComputacion\bin\Debug\net5.0\4.sueldoCasaDeComputacion.exe
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\4.sueldoCasaDeComputacion\bin\Debug\net5.0\4.sueldoCasaDeComputacion.deps.json
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\4.sueldoCasaDeComputacion\bin\Debug\net5.0\4.sueldoCasaDeComputacion.runtimeconfig.json
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\4.sueldoCasaDeComputacion\bin\Debug\net5.0\4.sueldoCasaDeComputacion.runtimeconfig.dev.json
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\4.sueldoCasaDeComputacion\bin\Debug\net5.0\4.sueldoCasaDeComputacion.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\4.sueldoCasaDeComputacion\bin\Debug\net5.0\ref\4.sueldoCasaDeComputacion.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\4.sueldoCasaDeComputacion\bin\Debug\net5.0\4.sueldoCasaDeComputacion.pdb
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\4.sueldoCasaDeComputacion\obj\Debug\net5.0\4.sueldoCasaDeComputacion.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\4.sueldoCasaDeComputacion\obj\Debug\net5.0\4.sueldoCasaDeComputacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\4.sueldoCasaDeComputacion\obj\Debug\net5.0\4.sueldoCasaDeComputacion.AssemblyInfoInputs.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\4.sueldoCasaDeComputacion\obj\Debug\net5.0\4.sueldoCasaDeComputacion.AssemblyInfo.cs
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\4.sueldoCasaDeComputacion\obj\Debug\net5.0\4.sueldoCasaDeComputacion.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\4.sueldoCasaDeComputacion\obj\Debug\net5.0\4.sueldoCasaDeComputacion.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\4.sueldoCasaDeComputacion\obj\Debug\net5.0\ref\4.sueldoCasaDeComputacion.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\4.sueldoCasaDeComputacion\obj\Debug\net5.0\4.sueldoCasaDeComputacion.pdb
+C:\Users\PC-1\Desktop\curso c# nivel I\ejercicios unidad 2\4.sueldoCasaDeComputacion\obj\Debug\net5.0\4.sueldoCasaDeComputacion.genruntimeconfig.cache

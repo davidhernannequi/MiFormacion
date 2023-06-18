@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "vectorDe10IntMostrarMayoresAlPromedio.cs/1.0.0": {
+        "runtime": {
+          "vectorDe10IntMostrarMayoresAlPromedio.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vectorDe10IntMostrarMayoresAlPromedio.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

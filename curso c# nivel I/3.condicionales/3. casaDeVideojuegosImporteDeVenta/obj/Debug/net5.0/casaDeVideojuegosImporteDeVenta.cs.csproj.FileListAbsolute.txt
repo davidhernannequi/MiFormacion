@@ -1,0 +1,16 @@
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\3. casaDeVideojuegosImporteDeVenta\casaDeVideojuegosImporteDeVenta.cs\bin\Debug\net5.0\casaDeVideojuegosImporteDeVenta.cs.exe
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\3. casaDeVideojuegosImporteDeVenta\casaDeVideojuegosImporteDeVenta.cs\bin\Debug\net5.0\casaDeVideojuegosImporteDeVenta.cs.deps.json
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\3. casaDeVideojuegosImporteDeVenta\casaDeVideojuegosImporteDeVenta.cs\bin\Debug\net5.0\casaDeVideojuegosImporteDeVenta.cs.runtimeconfig.json
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\3. casaDeVideojuegosImporteDeVenta\casaDeVideojuegosImporteDeVenta.cs\bin\Debug\net5.0\casaDeVideojuegosImporteDeVenta.cs.runtimeconfig.dev.json
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\3. casaDeVideojuegosImporteDeVenta\casaDeVideojuegosImporteDeVenta.cs\bin\Debug\net5.0\casaDeVideojuegosImporteDeVenta.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\3. casaDeVideojuegosImporteDeVenta\casaDeVideojuegosImporteDeVenta.cs\bin\Debug\net5.0\ref\casaDeVideojuegosImporteDeVenta.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\3. casaDeVideojuegosImporteDeVenta\casaDeVideojuegosImporteDeVenta.cs\bin\Debug\net5.0\casaDeVideojuegosImporteDeVenta.cs.pdb
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\3. casaDeVideojuegosImporteDeVenta\casaDeVideojuegosImporteDeVenta.cs\obj\Debug\net5.0\casaDeVideojuegosImporteDeVenta.cs.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\3. casaDeVideojuegosImporteDeVenta\casaDeVideojuegosImporteDeVenta.cs\obj\Debug\net5.0\casaDeVideojuegosImporteDeVenta.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\3. casaDeVideojuegosImporteDeVenta\casaDeVideojuegosImporteDeVenta.cs\obj\Debug\net5.0\casaDeVideojuegosImporteDeVenta.cs.AssemblyInfoInputs.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\3. casaDeVideojuegosImporteDeVenta\casaDeVideojuegosImporteDeVenta.cs\obj\Debug\net5.0\casaDeVideojuegosImporteDeVenta.cs.AssemblyInfo.cs
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\3. casaDeVideojuegosImporteDeVenta\casaDeVideojuegosImporteDeVenta.cs\obj\Debug\net5.0\casaDeVideojuegosImporteDeVenta.cs.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\3. casaDeVideojuegosImporteDeVenta\casaDeVideojuegosImporteDeVenta.cs\obj\Debug\net5.0\casaDeVideojuegosImporteDeVenta.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\3. casaDeVideojuegosImporteDeVenta\casaDeVideojuegosImporteDeVenta.cs\obj\Debug\net5.0\ref\casaDeVideojuegosImporteDeVenta.cs.dll
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\3. casaDeVideojuegosImporteDeVenta\casaDeVideojuegosImporteDeVenta.cs\obj\Debug\net5.0\casaDeVideojuegosImporteDeVenta.cs.pdb
+C:\Users\PC-1\Desktop\curso c# nivel I\3. ejercicio unidad 3\3. casaDeVideojuegosImporteDeVenta\casaDeVideojuegosImporteDeVenta.cs\obj\Debug\net5.0\casaDeVideojuegosImporteDeVenta.cs.genruntimeconfig.cache

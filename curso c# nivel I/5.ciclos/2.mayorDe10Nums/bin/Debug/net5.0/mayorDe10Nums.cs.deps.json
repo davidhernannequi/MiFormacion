@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "mayorDe10Nums.cs/1.0.0": {
+        "runtime": {
+          "mayorDe10Nums.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mayorDe10Nums.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

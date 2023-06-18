@@ -1,0 +1,16 @@
+C:\Users\PC-1\Desktop\TPFinal_Nequi\bin\Debug\net5.0\TPFinal_Nequi.exe
+C:\Users\PC-1\Desktop\TPFinal_Nequi\bin\Debug\net5.0\TPFinal_Nequi.deps.json
+C:\Users\PC-1\Desktop\TPFinal_Nequi\bin\Debug\net5.0\TPFinal_Nequi.runtimeconfig.json
+C:\Users\PC-1\Desktop\TPFinal_Nequi\bin\Debug\net5.0\TPFinal_Nequi.runtimeconfig.dev.json
+C:\Users\PC-1\Desktop\TPFinal_Nequi\bin\Debug\net5.0\TPFinal_Nequi.dll
+C:\Users\PC-1\Desktop\TPFinal_Nequi\bin\Debug\net5.0\ref\TPFinal_Nequi.dll
+C:\Users\PC-1\Desktop\TPFinal_Nequi\bin\Debug\net5.0\TPFinal_Nequi.pdb
+C:\Users\PC-1\Desktop\TPFinal_Nequi\obj\Debug\net5.0\TPFinal_Nequi.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\TPFinal_Nequi\obj\Debug\net5.0\TPFinal_Nequi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Desktop\TPFinal_Nequi\obj\Debug\net5.0\TPFinal_Nequi.AssemblyInfoInputs.cache
+C:\Users\PC-1\Desktop\TPFinal_Nequi\obj\Debug\net5.0\TPFinal_Nequi.AssemblyInfo.cs
+C:\Users\PC-1\Desktop\TPFinal_Nequi\obj\Debug\net5.0\TPFinal_Nequi.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\TPFinal_Nequi\obj\Debug\net5.0\TPFinal_Nequi.dll
+C:\Users\PC-1\Desktop\TPFinal_Nequi\obj\Debug\net5.0\ref\TPFinal_Nequi.dll
+C:\Users\PC-1\Desktop\TPFinal_Nequi\obj\Debug\net5.0\TPFinal_Nequi.pdb
+C:\Users\PC-1\Desktop\TPFinal_Nequi\obj\Debug\net5.0\TPFinal_Nequi.genruntimeconfig.cache

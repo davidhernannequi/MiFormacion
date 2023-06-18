@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "descuentoPorLitros.cs/1.0.0": {
+        "runtime": {
+          "descuentoPorLitros.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "descuentoPorLitros.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
