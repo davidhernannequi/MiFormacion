@@ -1,0 +1,10 @@
+C:\Users\PC-1\Desktop\Git Repository\TodoCodeAcademy\agendaElectronica en C Sharp\agendaElectronica\agendaElectronica\bin\Debug\agendaElectronica.exe.config
+C:\Users\PC-1\Desktop\Git Repository\TodoCodeAcademy\agendaElectronica en C Sharp\agendaElectronica\agendaElectronica\bin\Debug\agendaElectronica.exe
+C:\Users\PC-1\Desktop\Git Repository\TodoCodeAcademy\agendaElectronica en C Sharp\agendaElectronica\agendaElectronica\bin\Debug\agendaElectronica.pdb
+C:\Users\PC-1\Desktop\Git Repository\TodoCodeAcademy\agendaElectronica en C Sharp\agendaElectronica\agendaElectronica\obj\Debug\agendaElectronica.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\Git Repository\TodoCodeAcademy\agendaElectronica en C Sharp\agendaElectronica\agendaElectronica\obj\Debug\agendaElectronica.frmPrincipal.resources
+C:\Users\PC-1\Desktop\Git Repository\TodoCodeAcademy\agendaElectronica en C Sharp\agendaElectronica\agendaElectronica\obj\Debug\agendaElectronica.Properties.Resources.resources
+C:\Users\PC-1\Desktop\Git Repository\TodoCodeAcademy\agendaElectronica en C Sharp\agendaElectronica\agendaElectronica\obj\Debug\agendaElectronica.csproj.GenerateResource.cache
+C:\Users\PC-1\Desktop\Git Repository\TodoCodeAcademy\agendaElectronica en C Sharp\agendaElectronica\agendaElectronica\obj\Debug\agendaElectronica.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\TodoCodeAcademy\agendaElectronica en C Sharp\agendaElectronica\agendaElectronica\obj\Debug\agendaElectronica.exe
+C:\Users\PC-1\Desktop\Git Repository\TodoCodeAcademy\agendaElectronica en C Sharp\agendaElectronica\agendaElectronica\obj\Debug\agendaElectronica.pdb
